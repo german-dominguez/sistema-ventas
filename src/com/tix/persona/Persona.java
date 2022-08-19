@@ -104,7 +104,7 @@ public class Persona {
 			return this;
 		}
 
-		public Persona buildPersona() {
+		public Persona build() {
 			return this.persona;
 		}
 	}
